@@ -1,4 +1,4 @@
-# terraform-iaac-august-2020-aws-vpc
+# terraform-aws-vpc
 
 ```
 module "VPC" {
